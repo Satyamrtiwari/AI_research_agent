@@ -1,0 +1,25 @@
+# Core LangChain framework and agent orchestration
+langchain
+langgraph
+langchain-core
+
+# Groq LLM integration
+langchain-groq
+
+# Tavily web search integration
+tavily-python
+langchain-tavily
+
+# Web scraping / HTML parsing
+beautifulsoup4
+requests
+lxml
+
+# Web Application UI
+streamlit
+
+# Environment variables & configuration
+python-dotenv
+pydantic
+httpx
+rich
